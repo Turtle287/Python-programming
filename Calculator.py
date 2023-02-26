@@ -1,0 +1,23 @@
+print('\n1.add')
+a=int(input('\n 1: '))
+b=int(input('\n 2: '))
+add=(a+b)
+print(add, 'is your answer')
+
+print('\n 2.divide')
+c=int(input('\n 1: '))
+d=int(input('\n 2: '))
+div=(c/d)
+print(div, 'is your answer')
+
+print('\n 3.subtract')
+e=int(input('\n 1: '))
+f=int(input('\n 2: '))
+sub=(e-f)
+print(sub, 'is your answer')
+
+print('4.multiply')
+g=int(input('\n 1: '))
+h=int(input('\n 2: '))
+mul=(g*h)
+print(mul, 'is your answer')
